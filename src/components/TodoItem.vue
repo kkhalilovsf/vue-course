@@ -2,7 +2,8 @@
   <li class="todo-list_item">
     <input type="checkbox" class="todo-list_native-checkbox" />
     <span class="todo-list_title">{{todo.title}}</span>
-    <button type="button" class="todo-list_btn-notremove">&times;</button>
+    <button type="button" class="todo-list_btn-start">&times;</button>
+
   </li>
 </template>
 
